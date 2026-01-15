@@ -29,7 +29,7 @@ Sistema desktop desenvolvido para gerenciar tarefas e produtividade em ambientes
     * Funcionalidade "Dica do Dia" consumindo API externa.
     * Interface responsiva construída com PyQt5.
     * Banco de dados normalizado com tabelas de Metas e Categorias.
-* [🔗 Link para o repositório (se houver)]
+* [🔗 [Repositório](https://github.com/Raul-Rezende/Equilibra-Python-Desktop)]
 
 ### 2. MedHealth API - Microsserviço de Saúde ☕
 > *Backend: Java + Quarkus*
@@ -40,7 +40,6 @@ API RESTful de alta performance para gestão de clínicas médicas.
     * Arquitetura de microsserviços pronta para rodar em containers (Docker).
     * Endpoints para gestão de Pacientes, Médicos e Consultas (Resources).
     * Implementação de padrões de projeto (DAO, BO, TO).
-* [🔗 Link para o repositório (se houver)]
 
 ### 3. Sistema Integrado de Saúde (Data Modeling) 🗄️
 > *Database Engineering: SQL*
@@ -51,7 +50,7 @@ Modelagem física completa de um sistema hospitalar complexo.
     * Modelagem complexa envolvendo Prontuários, Receitas e Exames.
     * Queries analíticas para relatórios gerenciais (ex: média de idade por gênero, contagem de status).
     * Uso avançado de Constraints e Joins para garantir integridade dos dados.
-
+* [🔗 [Repositório](https://github.com/Raul-Rezende/Health-Analytics-Database)]
 ---
 
 ## 📫 Contato
