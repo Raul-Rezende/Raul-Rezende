@@ -55,5 +55,5 @@ Modelagem física completa de um sistema hospitalar complexo.
 ---
 
 ## 📫 Contato
-* [LinkedIn](https://www.linkedin.com/in/raul-iemini/))
+* [LinkedIn](https://www.linkedin.com/in/raul-iemini/)
 * [Email](mailto:raurede21@gmail.com)
