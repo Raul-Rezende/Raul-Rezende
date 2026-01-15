@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Raul Rezende Iemini Aguiar! 👋
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | FIAP
 
 Estou em busca da minha primeira oportunidade como **Estagiário/Trainee** em desenvolvimento de software. Tenho foco em construção de backends robustos, manipulação de dados e interfaces desktop.
