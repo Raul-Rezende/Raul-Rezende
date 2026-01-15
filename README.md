@@ -54,9 +54,6 @@ Modelagem física completa de um sistema hospitalar complexo.
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
-
 ## 📫 Contato
-* [LinkedIn](Link do seu LinkedIn)
-* [Email](mailto:seu-email@exemplo.com)
+* [LinkedIn]([Link do seu LinkedIn](https://www.linkedin.com/in/raul-iemini/))
+* [Email](mailto:raurede21@gmail.com)
