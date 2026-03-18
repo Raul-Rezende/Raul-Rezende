@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de tecnologia com foco em desenvolvimento de software e construção de soluções que resolvem problemas reais.
+Sou estudante de tecnologia focado em desenvolvimento de software, com interesse em construir soluções simples, eficientes e bem estruturadas para problemas reais.
 
-Tenho interesse em **back-end e arquitetura de sistemas**, trabalhando com APIs REST, banco de dados e boas práticas de programação, sempre buscando código limpo, escalável e bem estruturado.
+Tenho experiência com desenvolvimento de **APIs REST**, integração com **bancos de dados** e aplicação de **boas práticas de programação**, buscando sempre evoluir em arquitetura de software e desenvolvimento back-end.
 
 ---
 
@@ -20,7 +20,6 @@ Tenho interesse em **back-end e arquitetura de sistemas**, trabalhando com APIs 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🌐 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,26 +42,26 @@ Tenho interesse em **back-end e arquitetura de sistemas**, trabalhando com APIs 
 ### 📊 Equilibra
 Sistema para organização e análise de tarefas pessoais e profissionais.
 
-🔗 https://github.com/Raul-Rezende/equilibra
+🔗 https://github.com/Raul-Rezende/equilibra  
 
-**Stack:**
-- Python  
-- Oracle Database  
-- JSON  
+**Principais pontos:**
 - CRUD completo  
+- Integração com Oracle Database  
+- Exportação em JSON  
+- Organização de dados e tarefas  
 
 ---
 
 ### 📚 API Educacional (.NET)
 API REST com arquitetura em camadas para gerenciamento educacional.
 
-🔗 https://github.com/Raul-Rezende/api-educacional
+🔗 https://github.com/Raul-Rezende/api-educacional  
 
-**Stack:**
-- C#  
-- .NET  
-- SQL  
+**Principais pontos:**
+- C# e .NET  
 - Arquitetura em camadas  
+- Integração com banco relacional  
+- Estrutura escalável  
 
 ---
 
@@ -76,13 +75,12 @@ API REST com arquitetura em camadas para gerenciamento educacional.
 
 ## 📫 Contato
 
+📧 Email: raurede21@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/raul-iemini  
 🐙 GitHub: https://github.com/Raul-Rezende  
 
 ---
 
-## ⚡ Foco atual
+## 🎯 Objetivo
 
-- Evoluir em back-end  
-- Aprender mais sobre arquitetura de software  
-- Desenvolver projetos completos e escaláveis  
+Buscando oportunidade de estágio em Desenvolvimento de Software (Full-Stack), com foco em back-end, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
