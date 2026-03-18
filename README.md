@@ -1,58 +1,88 @@
-# Olá, eu sou Raul Rezende Iemini Aguiar! 👋
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | FIAP
+# 👋 Olá, eu sou o Raul Rezende!
 
-Estou em busca da minha primeira oportunidade como **Estagiário/Trainee** em desenvolvimento de software. Tenho foco em construção de backends robustos, manipulação de dados e interfaces desktop.
-
----
-
-## 🛠️ Tech Stack
-
-**Linguagens & Frameworks:**
-* ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**: Automação, Data Science e Interfaces com PyQt5.
-* ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) **Java**: Desenvolvimento de APIs com Quarkus.
-* ![SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white) **SQL**: Modelagem de dados e PL/SQL (Oracle).
-
-**Ferramentas:**
-* Git, Docker, VS Code, SQL Developer.
+💻 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
+🚀 Focado em Desenvolvimento Full-Stack (ênfase em Back-end)  
+📍 São Paulo, Brasil  
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Sobre mim
 
-### 1. Equilibra - Gestão de Trabalho Híbrido 🐍
-> *Fullstack Desktop: Python + SQL*
+Sou estudante de tecnologia com foco em desenvolvimento de software e construção de soluções que resolvem problemas reais.
 
-Sistema desktop desenvolvido para gerenciar tarefas e produtividade em ambientes de trabalho híbrido.
-* **Tecnologias**: Python 3, PyQt5 (Interface Gráfica), Oracle Database (Persistência), Requests (API externa).
-* **Destaques**:
-    * CRUD completo de usuários e tarefas.
-    * Funcionalidade "Dica do Dia" consumindo API externa.
-    * Interface responsiva construída com PyQt5.
-    * Banco de dados normalizado com tabelas de Metas e Categorias.
-* [🔗 [Repositório](https://github.com/Raul-Rezende/Equilibra-Python-Desktop)]
+Tenho interesse em **back-end e arquitetura de sistemas**, trabalhando com APIs REST, banco de dados e boas práticas de programação, sempre buscando código limpo, escalável e bem estruturado.
 
-### 2. MedHealth API - Microsserviço de Saúde ☕
-> *Backend: Java + Quarkus*
+---
 
-API RESTful de alta performance para gestão de clínicas médicas.
-* **Tecnologias**: Java, Quarkus Framework, Maven, Oracle JDBC.
-* **Destaques**:
-    * Arquitetura de microsserviços pronta para rodar em containers (Docker).
-    * Endpoints para gestão de Pacientes, Médicos e Consultas (Resources).
-    * Implementação de padrões de projeto (DAO, BO, TO).
+## 🛠️ Tecnologias
 
-### 3. Sistema Integrado de Saúde (Data Modeling) 🗄️
-> *Database Engineering: SQL*
+### 💻 Back-end
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-Modelagem física completa de um sistema hospitalar complexo.
-* **Tecnologias**: Oracle SQL.
-* **Destaques**:
-    * Modelagem complexa envolvendo Prontuários, Receitas e Exames.
-    * Queries analíticas para relatórios gerenciais (ex: média de idade por gênero, contagem de status).
-    * Uso avançado de Constraints e Joins para garantir integridade dos dados.
-* [🔗 [Repositório](https://github.com/Raul-Rezende/Health-Analytics-Database)]
+### 🌐 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Banco de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### 📊 Equilibra
+Sistema para organização e análise de tarefas pessoais e profissionais.
+
+🔗 https://github.com/Raul-Rezende/equilibra
+
+**Stack:**
+- Python  
+- Oracle Database  
+- JSON  
+- CRUD completo  
+
+---
+
+### 📚 API Educacional (.NET)
+API REST com arquitetura em camadas para gerenciamento educacional.
+
+🔗 https://github.com/Raul-Rezende/api-educacional
+
+**Stack:**
+- C#  
+- .NET  
+- SQL  
+- Arquitetura em camadas  
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=Raul-Rezende&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Rezende&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Contato
-* [LinkedIn](https://www.linkedin.com/in/raul-iemini/)
-* [Email](mailto:raurede21@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/raul-iemini  
+🐙 GitHub: https://github.com/Raul-Rezende  
+
+---
+
+## ⚡ Foco atual
+
+- Evoluir em back-end  
+- Aprender mais sobre arquitetura de software  
+- Desenvolver projetos completos e escaláveis  
